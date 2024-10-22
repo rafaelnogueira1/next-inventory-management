@@ -76,9 +76,7 @@ const Sidebar = () => {
           isSidebarCollapsed ? 'px-5' : 'px-8'
         }`}
       >
-        <div>
-          <img src='' alt='logo' />
-        </div>
+        <div>logo</div>
         <h1
           className={`font-extrabold text-2xl ${
             isSidebarCollapsed ? 'hidden' : 'block'
