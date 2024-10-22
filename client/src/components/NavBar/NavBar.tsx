@@ -67,8 +67,8 @@ const NavBar = () => {
             <Image
               src='https://s3-nextinventorymanagement.s3.sa-east-1.amazonaws.com/profile.jpg'
               alt='profile'
-              width={50}
-              height={50}
+              width={40}
+              height={40}
               className='rounded-full h-full object-cover'
             />
             <span className='font-semibold'>Rafael N.</span>
